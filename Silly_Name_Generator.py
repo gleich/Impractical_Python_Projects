@@ -1,4 +1,4 @@
-"""Generates funny names by randomly combining names from 2 separated lists."""
+"""Generates "funny" names by randomly combining names from 2 separated lists."""
 import sys
 import random
 
